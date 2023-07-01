@@ -1,2 +1,2 @@
 Hello this is just a sample test to kick off a build when change is made. 
-Kick of build 1! Blah
+Kick of build 1!
